@@ -1,1 +1,2 @@
 # freecodecamp-node
+This code was created by almost entirely by following along with the Free Code Camp's online tutorial, and also partially by using VS Code autocompletion and automated code correction with CoPilot.
