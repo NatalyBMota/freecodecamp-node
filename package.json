@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp-node",
+  "version": "1.0.0",
+  "description": "This code was created by almost entirely by following along with the Free Code Camp's online tutorial, and also partially by using VS Code autocompletion and automated code correction with CoPilot.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalyBMota/freecodecamp-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalyBMota/freecodecamp-node/issues"
+  },
+  "homepage": "https://github.com/NatalyBMota/freecodecamp-node#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.17.21"
+  }
+}
